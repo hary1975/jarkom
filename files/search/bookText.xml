@@ -1,0 +1,1389 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Search><pages Count="26"><page Index="1"><![CDATA[Kelas X
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                   @2022, SMA Al Muslim  1]]></page><page Index="2"><![CDATA[JARINGAN KOMPUTER
+
+                                                           Kelas X
+
+
+
+
+                                                   PENYUSUN
+
+
+
+
+                                             Musa, S.Kom, M.Pd
+
+
+
+
+
+
+                                              SMA AL MUSLIM
+
+
+                                                          2023
+
+
+
+
+
+
+
+
+
+
+
+
+
+                   @2022, SMA Al Muslim  2]]></page><page Index="3"><![CDATA[KATA PENGANTAR
+
+
+                            Alhamdulillah,  puji  syukur  sepantasnya  kita  haturkan  kepada  Allah
+
+                     SWT, yang telah memberikan petunjuk dan kekuatan kepada penulis dalam
+
+                     menyelesaikan  modul  ini.  Shalawat  serta  salam  teruntuk  Rasulallah  SAW,
+
+                     beserta keluarga, sahabat, dan umatnya hingga akhir zaman.
+                            Atas nama pengurus Kepala Bidang Pendidikan Yayasan Al Muslim,
+
+                     saya mengucapkan terima kasih kepada Sdr. Musa, S.Kom, M.Pd., yang telah
+
+                     menyelesaikan  modul  ini  dengan  sangat  baik.  Semoga  modul  ini  dapat
+                     dimanfaatkan  sebagai  bahan  pembelajaran  sehingga  kompetensi  yang
+
+                     diharapkan pada mata pelajaran ini dapat tercapai dengan baik.
+
+                            Tentunya,  seiring  dengan  perkembangan  ilmu  pengetahuan  dan
+
+                     teknologi,  modul  ini  harus  terus  disempurnakan  agar  peserta  didik  dapat
+                     menerima materi yang terbarukan.
+
+                            Kepada para peserta didik pengguna modul ini, kami berharap dapat
+
+                     mengikuti setiap instruksi yang disajikan agar proses pembelajaran dapat
+
+                     berjalan sesuai sistematika yang telah direncakanan. Dengan kesungguhan
+                     dan disiplin yang baik, maka kompetensi yang diharapkan dapat tercapai
+
+                     dengan maksimal. Semoga Allah, SWT senantiasa membimbing dan meridai
+
+                     segala upaya kita. Aamiin.
+
+
+                                                       Bekasi,  Agustus 2023
+                                                                      Kepala Bidang Pendidikan Yayasan Al Muslim,
+
+
+
+                                                                       Ir. Sahid Hudri
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                   @2022, SMA Al Muslim  3]]></page><page Index="4"><![CDATA[PRAKATA
+
+                      Bismillahirrahmaanirrahiim.
+
+                            Alhamdulillahirabbil  aalamiin.  Segala  puji  hanya  bagi  Allah  SWT,
+                     Penggenggam Hati dan Pemilik Segala Ilmu Pengetahuan. Shalawat dan
+
+                     salam penulis haturkan untuk Baginda Nabi Muhammad SAW, yang telah
+
+                     menjadi penerang jalan hidup manusia di dunia, untuk hidup dalam abadi
+                     di akhirat kelak. Modul ini disusun untuk membantu peserta didik dalam
+
+                     mempelajari materi Informatika khususnya mengenal lebih dalam jaringan
+
+                     komputer. Waktu yang diperlukan untuk menyelesaikan modul ini adalah
+
+                     empat kali tatap muka atau sama dengan delapan jam pelajaran. Modul ini
+
+                     memuat  kompetensi,  Integrasi  Object,  berupa  text,  gambar,  g  serta
+                     dilengkapi  dengan  soal-soal.  Tingkat  pemahaman  atau  penguasaan
+
+                     peserta  didik  setelah  mempelajari  modul  ini  adalah  75%,  sedangkan
+
+                     peserta  didik  yang  tingkat  penguasaannya  kurang  dari  75%  harus
+                     mengulang kembali hingga mencapai tingkat penguasaan yang ditetapkan.
+
+                            Dengan  mempelajari  materi  modul  ini,  peserta  didik  diharapkan
+
+                     mampu  menerapkan  sikap,  pengetahuan,  dan  keterampilan  berbahasa
+
+                     dalam kehidupan sehari-hari.
+                            Terima  kasih  penulis  ucapkan  kepada  semua  pihak  yang  sudah
+
+                     membantu  hingga  selesai  modul  ini  sehingga  dapat  dimanfaatkan  oleh
+
+                     siswa.  Segala  saran  dan  kritik  penulis  harapkan  untuk  lebih
+
+                     menyempurnakan modul ini pada penerbitan berikutnya.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                   @2022, SMA Al Muslim  4]]></page><page Index="5"><![CDATA[DAFTAR ISI
+
+
+                                                                                          Halaman
+           LEMBAR JUDUL
+                                                                     Error! Bookmark not defined.
+
+                   JARINGAN KOMPUTER                                                              2
+                   KATA PENGANTAR ................................................................................................... 3
+                   PRAKATA .................................................................................................................. 4
+
+                   DAFTAR ISI                                                                     5
+                   GLOSARIUM                                                                      6
+                    PENDAHULUAN                                                                   7
+
+                   Kompetensi Dasar ............................................................................................................. 7
+                     Indikator ................................................................................................................ 7
+                   A.Jaringan Lokal dan Internet                                                  9
+
+                    1.Jaringan Lokal ...................................................................................................... 9
+                    2.Internet ............................................................................................................... 10
+                    3.Konektivitas Internet ........................................................................................... 11
+
+                    a.Konektivitas Internet pada Jaringan Berkabel .................................................... 11
+                    b.Konektivitas Internet pada Jaringan Nirkabel ..................................................... 13
+                      Aktivitas JKI-K10-01-U Peiancangan Jaiingan Komputer .................................... 15
+                   B.Komunikasi Data dengan Ponsel                                               16
+
+                    1.Jaringan Komunikasi pada Ponsel ...................................................................... 17
+                    2.Komunikasi Data dengan Ponsel ........................................................................ 18
+
+                      Aktivitas JKI-K10-02 Identiikasi Jenis Koneksi Data via Ponsel ......................... 20
+                   C. Proteksi Data Saat Berinternet                                             21
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                   @2022, SMA Al Muslim  5]]></page><page Index="6"><![CDATA[GLOSARIUM
+
+
+                    Jaringan komputer  : menggunakan dua buah atau lebih perangkat dengan
+                                         menggunakan sebuah sistem komunikasi yang
+                                         terstandarisasi secara globa
+                    Jaringan lokal          : adalah jaringan komputer berkabel maupun nirkabel
+                                         yang menghubungkan komputer dengan perangkat
+                                         lainnya dalam area terbatas
+                    Ip                               : memiliki ID unik yang berbeda satu sama lainnya dan
+                                          disebut Alamat IP (IP address),
+                    Internet                     : sendiri merupakan kepanjangan dari interconnection-
+                                         networking, yaitu sebuah jaringan komputer yang
+                                         menghubungkan banyak perangkat
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                   @2022, SMA Al Muslim  6]]></page><page Index="7"><![CDATA[PENDAHULUAN
+
+
+                    Satuan Pendidikan                         : SMA Al Muslim
+
+                    Mata Pelajaran                            : Informatika
+                    Kelas                                     : X (Sepuluh)
+                    Waktu                                     : 6 X 45 Menit (2 pertemuan)
+
+                            Kompetensi Dasar  :
+                    3.3.  Mengenal jaringan komputer lebih teknis.
+                    4.3.1. Menjelaskan komponen jaringan dan mekanisme yang terjadidalam
+                          sebuah jaringan.
+                    4.3.2.  Menjelaskan jenis- jenis    jaringan komputer
+
+                            Indikator
+                    1. Menjelaskan pengertian, topologi dan jenis-jenis jaringan komputer
+                    2. Menjelaskan manfaat jaringan komputer
+                    3. Mengidentifikasi komponen-komponen jaringan komputer beserta fungsinya
+                    4. Menjelaskan media transmisi dalam jaringan komputer
+
+
+
+
+
+                   Setelah mempelajari bab ini, kalian mampu memahami (a) perbedaan jaringan
+                   lokal dan internet dan jenis-jenis konektivitas internet melalui jaringan kabel dan
+                   nirkabel, (b) komunikasi data melalui ponsel, (c) pentingnya proteksi data pribadi
+                   saat  terhubung  ke  jaringan  internet  serta  menerapkan  enkripsi  untuk
+                   memproteksi dokumen.
+
+
+
+                  Tahukah kalian, apa yang akan terjadi jika saat ini tidak ada jaringan internet?
+                  Apakah saat kita terhubung ke internet itu selalu aman?
+                                                           Integrasi Kurikulum Al Muslim
+
+                                                              Bab 5 Jaringan Komputer dan Internet
+
+                                                                     91
+
+
+
+
+
+
+                      @2022, SMA Al Muslim  7]]></page><page Index="8"><![CDATA[Gambar 5.1 Peta Konsep Jaringan Komputer dan Internet
+
+
+
+
+
+
+
+                         Internet saat ini merupakan salah satu hal penting yang membantu banyak
+                         aspek kehidupan. Saat ini, ketika kita akan membuka rekening baru di bank,
+                         kita  tidak  perlu  lagi  mengunjungi  kantor  bank,  tetapi  cukup  mengakses
+                         aplikasi bank yang tersedia secara online, mengisi formulir dan melakukan
+                         veriikasi  secara  langsung  melalui  video  call  dengan  petugas.  Namun,
+                         mengakses internet bukan tanpa masalah. Kita perlu paham cara mengakses
+                         internet dengan aman supaya tidak merugikan kita.
+
+
+
+
+
+
+
+                         Jaringan lokal, jaringan internet, internet service provider, komunikasi data
+                         pada HP, Sertiikat SSL.
+
+
+
+
+
+
+
+
+
+
+                         @2022, SMA Al Muslim  8]]></page><page Index="9"><![CDATA[A.  Jaringan Lokal dan Internet
+
+                          Jaringan komputer menggunakan dua buah atau lebih perangkat dengan
+                          menggunakan  sebuah  sistem  komunikasi  yang  terstandarisasi  secara
+                          global, yaitu Transmission Control Protocol/Internet Protocol Suite (TCP/IP).
+                          Jaringan komputer yang menghubungkan komputer ada dua jenis, yaitu
+                          jaringan  lokal  dan  jaringan  internet.  Perbedaan  keduanya  ada  pada
+                          jangkauannya.
+
+
+
+
+                           Jaringan  lokal  memiliki  jangkauan  yang  lebih  terbatas  dibandingkan
+                          dengan jaringan internet.
+
+                          1.  Jaringan Lokal
+                          Jaringan lokal adalah jaringan komputer berkabel maupun nirkabel yang
+                          menghubungkan komputer dengan perangkat lainnya dalam area terbatas
+                          seperti  tempat  tinggal,  sekolah,  laboratorium,  kampus  universitas,  atau
+                          gedung kantor. Perangkat atau komputer yang ada di jaringan lokal hanya
+                          bisa diakses oleh perangkat lain yang berada pada jaringan yang sama.
+                          Setiap perangkat atau komputer yang terhubung dalam jaringan lokal akan
+                          memiliki ID unik yang berbeda satu sama lainnya dan disebut Alamat IP (IP
+                          address),  misalnya  192.168.0.1.  Dalam  implementasinya,  biasanya  satu
+                          perangkat  akan  disebut  server,  sedangkan  perangkat  lainnya  disebut
+                          client.
+                              Gambar  5.2  menunjukkan  contoh
+                          jaringan lokal yang menghubungkan lima
+                          buah perangkat, yaitu tiga buah komputer,
+                          satu buah HP, dan satu buah laptop. Jika
+                          kalian   perhatikan,    setiap    perangkat
+                          memiliki IP address yang berbeda. Karena
+                          IP address ini hanya berlaku pada jaringan
+                          lokal, bisa juga disebut sebagai IP private.
+
+
+                               Apa yang akan terjadi jika ada dua buah perangkat yang memiliki IP
+                          address yang sama? Apa sebenarnya arti dan fungsi dari IP address? IP
+                          address merupakan identitas sebuah komputer dalam jaringan komputer.
+                          IP address berfungsi sebagai alamat pengiriman data dari satu perangkat
+                          ke perangkat lain. Mungkin kalian bisa menganalogikan
+
+
+
+
+
+
+
+
+
+
+                         @2022, SMA Al Muslim  9]]></page><page Index="10"><![CDATA[IP address seperti alamat rumah. Saat akan mengirim paket, tentunya
+                          akan lebih mudah kalau sudah mengetahui alamat pastinya. Sama halnya
+                          dengan ketika kalian akan mengirim data dari satu perangkat ke perangkat
+                          lain. Kalian harus tahu data itu akan dikirim ke komputer dengan IP address
+                          yang  mana.  IP  address  sendiri  biasanya  terdiri  atas  32  bit  yang  dipisah
+                          menjadi 4 bagian sehingga setiap bagian akan terdiri atas 8 bit.
+
+                          Nah,  8  bit  ini  merupakan  bilangan  biner  yang  diterjemahkan  ke  dalam
+                          bilangan  desimal.  Tentu  kalian  sudah  belajar  tentang  bilangan  biner.
+                          Berikut ini contoh dari IP address.
+
+                           IP address dalam bilangan biner               IP address
+                           10101100.11011001.00001010.00001110           172.217.10.14
+
+                          2.  Internet
+                          Berbeda dengan jaringan lokal yang hanya menghubungkan perangkat
+                          dengan  jangkauan  yang  terbatas  pada  area  tertentu  saja  misalnya
+                          perumahan, perkantoran, sekolah, dan lain sebagainya, jaringan internet
+                          memiliki  koneksi  dengan  cakupan  yang  lebih  luas  yang  bisa
+                          menghubungkan perangkat di seluruh dunia. Misalnya, kalian berada di
+                          Jakarta. Dengan jaringan internet, kalian bisa mengakses perangkat atau
+                          informasi yang ada di Kalimantan bahkan di negara lain. Luar biasa, ‘kan?
+
+                              Internet  sendiri  merupakan  kepanjangan  dari  interconnection-
+                          networking,  yaitu  sebuah  jaringan  komputer  yang  menghubungkan
+                          banyak perangkat di seluruh dunia. Jaringan internet ini memungkinkan
+                          adanya pertukaran data paket (packet switching communication protocol)
+                          untuk  melayani  miliaran  pengguna  di  seluruh  dunia.  Secara  konsep,
+                          jaringan internet juga disebut jaringan area luas (Wide Area Network).
+                              Pada  awalnya  di  tahun  1960-an,  internet  hanyalah  sebagai  proyek
+                          penelitian  yang  didanai  oleh  Departemen  Pertahanan  Amerika  Serikat
+                          pada tahun 1969, melalui proyek lembaga ARPA yang mengembangkan
+                          jaringan yang dinamakan ARPANET (Advanced Research Project Agency
+                          Network). Kemudian, berkembang menjadi infrastruktur publik pada 1980-
+                          an  dengan  dukungan  dari  banyak  universitas  negeri  dan  perusahaan
+                          swasta.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                         @2022, SMA Al Muslim  10]]></page><page Index="11"><![CDATA[Gambar 5.3 Jaringan Lokal Bisa Mengubah Menjadi Jaringan Internet
+                                     sumber: Dokumen Kemendikbud, 2021
+
+                          Untuk  bisa  mengakses  jaringan  internet,  biasanya  perangkat  apa  pun
+                          harus terhubung dengan salah satu Internet Service Provider (ISP) dengan
+                          menggunakan mekanisme koneksi internet tertentu.
+
+                          Jika jaringan lokal terhubung dengan ISP, baik secara berkabel maupun
+                          nirkabel, perangkat dalam jaringan lokal bisa mengakses internet. Hal ini
+                          ditunjukkan dengan garis merah (yang diasumsikan sebagai kabel) pada
+                          Gambar 5.3. Sama seperti jaringan lokal, setiap perangkat pada jaringan
+                          internet  juga  harus  memiliki  IP  address  yang  berbeda-beda.  Karena  IP
+                          address ini berlaku secara global, bisa juga disebut IP public. Akan tetapi,
+                          tidak semua perangkat lokal yang terhubung dengan internet memiliki IP
+                          public karena biasanya IP public hanya digunakan pada perangkat utama
+                          yang terhubung dengan jaringan internet secara langsung, dalam hal ini
+                          ada perangkat modem yang terhubung dengan ISP.
+
+                          3.  Konektivitas Internet
+                          Koneksi dengan internet pada umumnya dilakukan menggunakan kabel
+                          internet yang bisa berupa kabel coaxial, kabel fiberoptik maupun kabel
+                          twisted  pair.  Meski  demikian,  kalian  juga  bisa  terhubung  ke  jaringan
+                          internet  tanpa  menggunakan  kabel  (wireless  connection).  Baik
+                          menggunakan  kabel  maupun  tanpa  kabel,  keduanya  memiliki  metode
+                          tersendiri cara terkoneksi ke jaringan internet. Berikut ini beberapa jenis
+                          koneksi  internet  yang  memungkinkan  perangkat  kalian  terhubung  ke
+                          dalamnya.
+
+                         a.  Konektivitas Internet pada Jaringan Berkabel
+                          Konektivitas  internet  pada  jaringan  berkabel  pada  umumnya
+                          memanfaatkan  jaringan kabel  telepon  maupun televisi  yang  terhubung
+                          dengan Internet Service Provider. Berikut ini beberapa konektivitas pada
+                          jaringan berkabel.
+
+
+
+
+
+
+
+
+
+
+
+
+                         @2022, SMA Al Muslim  11]]></page><page Index="12"><![CDATA[a.  Dial-Up PSTN (Public Switched Telephone Network)
+                             Di  awal  internet  masuk  ke  Indonesia,  teknologi  Dial-Up  untuk
+                             terkoneksi  ke  internet  merupakan  metode  yang  umum  digunakan.
+                             Untuk  terkoneksi  dengan  internet,  Dial-Up  memanfaatkan  jaringan
+                             telepon  rumah  yang  berbentuk  kabel.  Tiga  perangkat  yang  harus
+                             dimiliki  untuk  koneksi  ini  ialah  komputer,  modem,  dan  sambungan
+                             telepon  rumah.  Dial-up  ini  akan  bekerja  melalui  jalur  PSTN  (Public
+                             Switched  Telephone  Network)  hingga  bisa  terhubung  dengan  ISP
+                             (Internet Service Provider). Kecepatan akses jenis koneksi internet Dial-
+                             Up hanya 12 hingga 20 Kbps, maksimum hanya 56 Kbps (kilobyte per
+                             second).  Gambar  5.4  menunjukan  ilustrasi  bagaimana  konektivitas
+                             internet menggunakan cara Dial-Up.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                          Gambar 5.4 Diagram Konektivitas Internet Jaringan Berkabel melalui Dial-
+
+                           Up dan ASDL sumber: Dokumen Kemendikbud, 2021
+                       b.  ADSL (Asymmetric Digital Subscriber Line)
+                           Sama seperti pada Dial-Up, koneksi internet ADSL juga bekerja dengan
+                           menggunakan teknologi modem. Modem yang digunakan bekerja pada
+                           frekuensi  antara  34  kHz  sampai  1104  kHz,  berbeda  dengan  modem
+                           konvensional  yang  bekerja  pada  frekuensi  di  bawah  4  kHz.  Dengan
+                           ADSL,  kita  bisa  mengirimkan  suara  hingga  fax  ke  pengguna  lainnya
+                           dengan  menggunakan  rentang  frekuensi  yang  berbeda.  Konektivitas
+                           internet  dengan  ADSL  pada  prinsipnya  sama  dengan  Dial-Up  yang
+                           menggunakan jaringan telepon kabel seperti ditunjukan pada Gambar
+                           5.4, tetapi yang membedakan ialah jenis modemnya.
+                       b.  LAN (Local Area Network)
+                           LAN termasuk koneksi internet yang
+                           banyak dikenal saat ini. Sistem
+                           kerjanya ialah menggunakan satu
+                           komputer sebagai server yang
+                           terhubung    dengan internet
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                         @2022, SMA Al Muslim  12]]></page><page Index="13"><![CDATA[menggunakan  kabel  telepon  atau  antena  melalui  InternetGambar  5.5
+                         Konektivitas Jaringan LAN Sumber: Dokumen Kemendikbud, 2021
+                         Service  Provider.  Kemudian,  komputer  lainnya  hanya  perlu  terkoneksi
+                         dengan server untuk bisa mengakses internet dengan memakai kartu LAN
+                         (LAN Card) dan kabel koaksial (UTP). Jaringan koneksi internet ini hanya
+                         mencakup  wilayah  yang  sangat  kecil.  Ilustrasi  jaringan internet  berkabel
+                         LAN ditunjukkan pada Gambar 5.5.
+
+                         b.  Konektivitas Internet pada Jaringan Nirkabel
+                         Konektivitas  internet  pada  jaringan  nirkabel  merupakan  jaringan  internet
+                         yang tidak menggunakan kabel untuk menghubungkan satu perangkat dan
+                         perangkat lain. Jaringan nirkabel ini sering dipakai untuk jaringan komputer
+                         baik  pada  jarak  yang  dekat  (beberapa  meter,  memakai  alat/  pemancar
+                         bluetooth) maupun pada jarak jauh (lewat satelit). Jaringan nirkabel biasanya
+                         menghubungkan  satu  sistem  komputer  dan  sistem  yang  lain  dengan
+                         menggunakan  beberapa  macam  media  transmisi  tanpa  kabel,  seperti:
+                         gelombang radio, gelombang mikro, maupun cahaya inframerah. Berikut ini
+                         beberapa konektivitas pada jaringan nirkabel.
+
+                       a.  GPRS (General Packet Radio Service)
+                         Jenis koneksi internet GPRS (General Packet Radio Service) menggunakan
+                         gelombang radio untuk  komunikasi  data dan  suara.  GPRS  ini  mempunyai
+                         kemampuan  untuk  mengirimkan  data  dan  suara  pada  alat  komunikasi
+                         bergerak. Sistem GPRS ini bisa dipakai untuk transfer data, berbentuk paket
+                         data
+                         yang terkait dengan pengiriman
+                         surel (surat elektronik) hingga
+                         berselancar di dunia maya.
+                         Layanan GPRS ini dipasang pada
+                         jenis ponsel dengan tipe GSM
+                         (Global Systems for Mobile
+                         Communications). Ilustrasi jaringan internet nirkabel GPRS ditunjukkan pada
+                         Gambar 5.6.
+                       b.  Wifi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                         @2022, SMA Al Muslim  13]]></page><page Index="14"><![CDATA[Wifi merupakan singkatan dari   wireless   idelity  yang merupakan sistem
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                       standar  yang digunakan untuk terkoneksi dengan  internet            tanpa
+                       menggunakan  kabel.  Teknologi  ini  memakai  frekuensi  tinggi,  berada  pada
+                       spektrum 2,4 GHz.
+                       Gambar 5.6 Ilustrasi Konektivitas Jaringan Nirkabel via GPRS Sumber: Dokumen Kemendikbud,2021
+
+                       Salah satu keunggulan jenis koneksi internet wifi ialah praktis karena tidak
+                       perlu memasang kabel jaringan. Namun, koneksi wifi memiliki jangkauan
+                       terbatas.
+
+                       C. Akses Satelit
+                       Jenis koneksi internet ini merupakan layanan internet yang memakai
+                       antena parabola
+                       sehingga kecepatan
+                       akses cukup tinggi.
+                       Namun, biasanya, jenis
+                       koneksi internet ini
+                       memang mahal terutama
+                       di Indonesia, meski
+                       sepadan dengan
+                       kecepatan aksesnya.
+                       Ilustrasi jaringan internet nirkabel
+
+
+
+
+
+
+
+
+                       Aktivitas Individu
+                       Aktivitas JKI-K10-01-U Peiancangan Jaiingan Komputer
+                       Pada  aktivitas  ini,  kalian  akan  mencoba  merancang  konigurasi  sebuah
+                       jaringan  komputer  yang  menghubungkan  perangkat  komputer  sehingga
+                       bisa berkomunikasi dengan perangkat komputer lainnya.
+
+                       Deskripsi Kasus
+
+
+
+
+
+
+
+
+                         @2022, SMA Al Muslim  14]]></page><page Index="15"><![CDATA[Ani berencana memasang jaringan internet baru pada suatu Internet Service
+                       Provider. ISP tersebut menyediakan satu buah modem secara gratis yang
+                       memiliki  IP  public  yang  hanya  bisa  terkoneksi  dengan  maksimal  dua
+                       perangkat lainnya. Adapun Ani sendiri memiliki tiga buah switch/router yang
+                       masing-masing bisa terpasang dengan maksimal tiga perangkat lainnya. Ani
+                       menginginkan  agar  semua  perangkat  komputer  yang  ada  di  rumahnya
+                       terkoneksi  dengan  internet.  Namun,  dia  juga  menginginkan  agar  biaya
+                       pasang yang dikeluarkan semurah mungkin. Biaya pasang ini bergantung
+                       pada total panjang kabel yang harus digunakan. Jika diberikan posisi semua
+                       perangkat
+
+
+
+
+
+
+
+                         yang dimiliki oleh Ani seperti pada Gambar 5.9 di bawah, bantulah dia untuk
+                         memodelkan  konigurasi  jaringan  di  rumahnya  sehingga  biaya  yang  harus
+                         dikeluarkan semurah mungkin. Posisi perangkat tidak boleh dipindah-pindah
+                         dan semua switch/router tidak harus digunakan.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                  Gambar 5.9 Ilustrasi Studi Kasus Perancangan
+                                           Jaringan Komputer Sumber: Dokumen
+                                           Kemendikbud, 2021
+
+
+                          Apa yang kalian perlukan?
+                      1.  Kertas kosong untuk mengonigurasi jaringan
+                      2.  Spidol
+                          Apa yang harus kalian lakukan?
+                      1.  Buatlah model jaringan komputer pada gambar di atas.
+                      2.  Setelah memodelkan konigurasi jaringan, bandingkan dengan rancangan
+                          teman kalian. Apakah sama? Mana yang lebih baik?
+                      3.  Selanjutnya, buatlah sketsa denah rumah kalian. Bayangkan kalian memiliki
+                          beberapa komputer yang harus terkoneksi dengan internet. Buatlah model
+                          konigurasi jaringannya.
+                      4.  Setelah selesai membuat model konigurasi jaringan komputer, jangan lupa
+
+
+
+
+
+
+
+
+                         @2022, SMA Al Muslim  15]]></page><page Index="16"><![CDATA[kalian harus meminta kepada teknisi jaringan jika ingin memasangnya. Pasti
+                          teknisi  akan  sangat  senang  karena  kalian  telah  membuatkan  modelnya
+                          sehingga teknisi hanya perlu memasangnya.
+
+                      B.  Komunikasi Data dengan Ponsel
+                          Salah  satu  penggunaan  jaringan  internet  dalam  membantu  kehidupan
+                          sehari-hari ialah sebagai sarana komunikasi baik melalui ponsel maupun
+                          melalui perangkat lainnya. Oleh sebab itu, kalian perlu memahami
+
+
+
+
+
+                          tentang  mekanisme  komunikasi  data  yang  terjadi  pada  ponsel.  Di  lain
+                          pihak,  ketika  menggunakan  internet,  kalian  juga  perlu  memperhatikan
+                          keamanan data yang dikirim melalui jaringan internet.
+
+
+                         1.  Jaringan Komunikasi pada Ponsel
+                             Komunikasi  data  merupakan  sebuah  mekanisme  pengiriman  dan
+                             penerimaan  data  dari  satu  perangkat  ke  perangkat  lain.  Ketika  kita
+                             menggunakan ponsel, baik untuk keperluan kirim pesan atau SMS (short
+                             message  system),  panggilan  suara,  maupun  transfer  dokumen,  di
+                             dalamnya ada mekanisme komunikasi data yang terjadi antara ponsel
+                             pengirim dan ponsel penerima.
+
+
+                             Komunikasi data dalam ponsel dilakukan pada BTS (Base Transceiver
+                             Station) melalui beberapa cara dan media, yaitu dengan bluetooth, kabel
+                             data ataupun melalui jaringan komunikasi seperti CDMA (Code Division
+                             Multiple Access) atau GSM (Global System for Mobile). Namun, karena
+                             makin  berkembangnya  teknologi  internet,  saat  ini,  komunikasi  data
+                             menggunakan ponsel bisa melalui jaringan internet antara lain seperti
+                             berikut.
+                         a.  GPRS (General Packet Radio Service) merupakan jaringan internet pada
+                             ponsel yang memiliki kecepatan antara 35-171 Kpbs. Dengan kecepatan
+                             ini,  biasanya,  hanya  cukup  untuk  mengirim  pesan  yang  tidak  terlalu
+                             panjang.
+                         b.  EDGE  (Enhanced  Data  rate  for  GSfi  Evolution)  merupakan  jaringan
+                             internet yang memiliki kecepatan lebih baik dibandingkan dengan GPRS
+                             karena memiliki kecepatan antara 120-384 Kbps.
+                         C.  3G  merupakan  jaringan  internet  GPRS  versi  3  yang  menggunakan
+                             protokol  transfer  data  United  Mobile  Telecommunication  Technology
+                             sehingga menghasilkan kecepatan antara 384 Kbps – 2 Mbps.
+                         d.  Generasi  berikutnya  ialah  HSPA  (High  Speed  Packet  Access)  yang
+                             dikenal dengan nama 3.5G dan memiliki kecepatan 600 Kbps – 10 Mbps.
+
+
+
+
+
+
+
+
+                         @2022, SMA Al Muslim  16]]></page><page Index="17"><![CDATA[Adapun  HSDPA  (High  Speed  Downlink  Packet  Access)  atau  dikenal
+                             dengan nama H+ pada layar HP kita memiliki kecepatan yang stabil pada
+                             kisaran 7.2 Mbps.
+                         e.  4G/LTE (Long Term Evolution) merupakan generasi keempat dari GPRS
+                             yang memiliki kecepatan hingga 100 Mbps. Saat ini, hampir sebagian
+                             besar ponsel di pasaran sudah mendukung jaringan 4G/LTE.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                          Gambar 5.10 Salah Satu Alur Kerja Proses Komunikasi Data SMS
+
+                                        melalui Ponsel Sumber: Dokumen Kemendikbud, 2021
+
+
+
+                           Gambar  5.10  menunjukkan  ilustrasi  cara  kerja  komunikasi  data  melalui
+                       ponsel, misalnya pada proses ketika kita mengirimkan SMS (Short Message
+                       System).  Ketika  pengguna  mengirim  SMS,  pesan  dikirim  ke  MSC  melalui
+                       jaringan seluler yang tersedia yang meliputi tower BTS yang sedang meng-
+                       handle komunikasi pengguna, lalu ke BSC (Base Station Controller), kemudian
+                       sampai ke MSC (Mobile Switching Center). MSC kemudian meneruskan lagi
+                       SMS  ke  SMSC  (Short  Message  Service  Center)  untuk  disimpan.  SMSC
+                       kemudian  mengecek  (lewat  HLR  –  Home  Location  Register)  untuk
+                       mengetahui apakah ponsel tujuan sedang aktif dan di manakah ponsel tujuan
+                       tersebut.
+                           Jika ponsel sedang tidak aktif, pesan tetap disimpan di SMSC itu sendiri,
+                       menunggu MSC memberitahukan bahwa ponsel sudah aktif kembali untuk
+                       kemudian SMS dikirim dengan batas maksimum waktu tunggu, yaitu validity
+                       period dari pesan SMS itu sendiri. Jika ponsel tujuan aktif, pesan disampaikan
+                       MSC lewat jaringan yang sedang menangani penerima (BSC dan BTS).
+                           Sebenarnya,  di  dalam  kebanyakan  ponsel  dan  model  GSM/CDMA,
+                       terdapat  suatu  komponen  wireless  modem/engine  yang  dapat  diperintah
+                       antara  lain  untuk  mengirim  suatu  pesan  SMS  dengan  protokol  tertentu.
+                       Standar  perintah  tersebut  dikenal  sebagai  AT-Command,  sedangkan
+                       protokolnya  disebut  PDU  (Protocol  Data  Unit).  Melalui  AT-Command  dan
+                       PDU  inilah,  kita  dapat  membuat  komputer/mikrokontroler  mengirim/
+                       menerima SMS secara otomatis berdasarkan program yang kita buat.
+
+                       2. Komunikasi Data dengan Ponsel
+                           Ponsel/handphone/HP  merupakan  sebuah  perangkat  yang  bekerja
+
+
+
+
+
+
+
+
+                         @2022, SMA Al Muslim  17]]></page><page Index="18"><![CDATA[layaknya  sebuah  komputer  karena  bisa  terhubung  ke  dalam  sebuah
+                           jaringan  lokal  maupun  jaringan  internet.  Oleh  karena  itu,  sangat
+                           memungkinkan  bagi  kalian  untuk  saling  melakukan  komunikasi  data
+                           antara  satu  ponsel  dan  ponsel  lainnya.  Ada  beberapa  jenis  koneksi
+                           jaringan pada perangkat ponsel yang
+
+
+
+
+                           digunakan  untuk  komunikasi  data.  Sebagian  besar  koneksi  tersebut
+                           lebih banyak menggunakan media tanpa kabel, yaitu antara lain koneksi
+                           dengan kabel data, koneksi dengan bluetooth, dan koneksi dengan wifi.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                         @2022, SMA Al Muslim  18]]></page><page Index="19"><![CDATA[Koneksi      Koneksi dengan kabel pada
+                dengan       ponsel biasanya dilakukan
+                Kabel        dengan menggunakan data
+                             cable (kabel
+                             data). Penggunaannya lebih
+                             banyak untuk menghubungkan
+                             ponsel
+                             dan perangkat komputer atau              Gambar 5.11. Kabel
+                             perangkat lainnya yang memiliki          Data
+                             port USB. Karena menggunakan
+                             kabel, jangkauan koneksi ini
+                             sangat terbatas sesuai dengan
+                             panjang kabel data yang kalian
+                             miliki.
+               Koneksi       Bluetooth adalah komunikasi data
+               dengan        tanpa kabel yang menggunakan
+               Bluetooth     gelombang elektromagnetik yang
+                             beroperasi pada frekuensi 2.45.
+                             Bluetooth memungkinkan
+                             pengguna perangkat seperti
+                             ponsel, printer, mouse, keyboard
+                             dan perangkat lainnya bisa
+                             terkoneksi tanpa kabel dengan           Gambar 5.12. Contoh
+                             jangkauan sekitar 1 meter.              Ilustrasi Komunikasi
+                                                                     Data Menggunakan
+                                                                          Bluetooth
+                 Konek       Koneksi data dengan jaringan
+                 si          tanpa kabel menggunakan
+                 denga       teknologi wifi merupakan jenis
+                 n wifi      koneksi yang banyak
+                             digemari. Alasan utamanya
+                             ialah karena bandwidth-nya
+                             yang besar dan hemat energi
+                             baterai. Kapasitas bandwidth            Gambar 5.13 Contoh
+                             maksimum sangat bergantung              Ilustrasi Komunikasi
+                             pada jarak dan data rate dari           Data Menggunakan
+                             perangkat access point.                          Wifi
+                             Kekurangannya ialah                      Sumber: Dokumen
+                             jangkauannya yang tidak jauh,           Kemendikbud, 2021
+                             maksimum 100 meter, tetapi
+                             dengan bandwidth yang
+                             minimum (data rate 1Mbps).
+
+
+
+
+
+
+
+
+
+
+                         @2022, SMA Al Muslim  19]]></page><page Index="20"><![CDATA[Aktivitas Kelompok
+                         Aktivitas JKI-K10-02 Identiikasi Jenis Koneksi Data via Ponsel
+                         Pada  aktivitas ini,  kalian  diminta  untuk  mengidentiikasi jenis  koneksi  yang
+                         bisa dilakukan antara ponsel dan perangkat lain. Berilah tanda centang pada
+                         jenis koneksi data jika bisa digunakan untuk komunikasi data antara ponsel
+                         dengan perangkat di bawah ini.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                       Gambar 5.14 Ilustrasi Berbagai Piranti Elektronik
+
+                            Perhatikan gambar-gambar perangkat di atas! Pernahkah kalian melihat
+                         atau menggunakan perangkat tersebut? Menurut kalian, apakah perangkat-
+                         perangkat  tersebut  bisa  terhubung  dengan  ponsel  yang  kalian  miliki?
+                         Bergantung  pada  spesiikasinya,  setiap  perangkat  bisa  saja  terhubung
+                         dengan ponsel menggunakan salah satu koneksi Kabel Data, Bluetooth, atau
+                         Wifi, atau gabungan dari ketiganya. Identiikasi gambar-gambar di atas sesuai
+                         dengan perangkat yang kalian miliki atau pengamatan kalian di lingkungan
+                         sekitar  misalnya  sekolah  atau  rumah.  Manakah  perangkat  yang  bisa
+                         terhubung  dengan  ponsel  dan  mana  yang  tidak  bisa  terhubung  dengan
+                         ponsel? Jangan lupa untuk menulis
+
+
+
+                         merk  atau  tipe  perangkat  yang  kalian  amati.  Jika  tidak  punya  salah  satu
+                         perangkat, kalian bisa saling berdiskusi dengan teman kalian yang mungkin
+                         memiliki perangkat tersebut.
+
+                            No     Nama              Merk/Tip        Cara Koneksi dengan
+                                   Perangkat         e               Ponsel
+                             1
+
+
+
+
+
+
+
+                         @2022, SMA Al Muslim  20]]></page><page Index="21"><![CDATA[2
+
+                             3
+                             4
+                             5
+                             ...
+
+                         C. Proteksi Data Saat Berinternet
+
+                         Apakah  kalian  menggunakan  media  sosial  sebagai  salah  satu  sarana
+                         komunikasi? Tahukah kalian bahwa saat menggunakan media sosial, pesan
+                         yang kalian kirimkan itu dienkripsi? Ini artinya, setiap pesan atau panggilan
+                         yang  dilakukan  melalui  media  sosial,  dienkripsi  untuk  melindungi  pesan
+                         supaya tidak diketahui oleh orang lain. Gambar 5.15 menunjukkan ilustrasi
+                         bahayanya jika pesan tidak dienkripsi.
+
+
+
+
+
+
+
+
+
+
+
+
+
+                               Gambar 5.15 Ilustrasi Jika Pesan di Media Sosial
+
+                                        Tidak Dienkripsi Sumber: Dokumen
+                                        Kemendikbud, 2021
+
+                            Seperti  terlihat  pada  Gambar  5.15,  pesan  yang  dikirim  oleh  Budi
+                         berpotensi diketahui oleh orang lain sehingga kerahasiaan data jadi tidak
+                         terproteksi  dengan  baik.  Inilah  pentingnya  enkripsi  data  ketika  kalian
+                         terkoneksi  dengan  jaringan  internet.  Kalian  harus  memastikan  bahwa
+                         aplikasi messenger  yang  kalian  gunakan  memiliki  fitur  enkripsi  supaya
+                         data  yang kalian kirimkan aman terproteksi dan tidak bisa diketahui orang
+                         lain.
+
+                            Ketika kalian membuka sebuah situs web, kemudian melakukan log in
+                         ke dalam situs web tersebut dengan memasukan nama pengguna dan kata
+                         sandi, apakah kalian tahu bahwa data yang kalian masukkan aman
+
+
+
+                         dan tidak mungkin bisa diketahui orang lain? Untuk memastikan ini, kalian
+                         harus paham bahwa situs web yang kalian kunjungi itu aman atau tidak.
+                         Cara paling mudah untuk mengetahui situs web yang kalian kunjungi itu
+                         aman karena melakukan proteksi pada data yang kalian input ialah dengan
+                         melihat di alamatnya apakah didahului dengan HTTPS dan ada icon seperti
+                         kunci di sebelah alamat situs web, seperti ditunjukkan pada Gambar 5.15.
+
+
+
+
+
+
+
+                         @2022, SMA Al Muslim  21]]></page><page Index="22"><![CDATA[Apakah kalian tahu bedanya http dan https? Hypertext Transfer Protocol
+                         (HTTP) adalah protokol yang mengatur komunikasi antara client (komputer
+                         pengguna)  dan  server  (komputer  yang  menyimpan  data  yang  diakses
+                         melalui situs web). Pada umumnya, cara komunikasi antara client dan server
+                         ialah client melakukan request ke server, kemudian server mengirimkan
+                         respons terhadap situs web. Respons yang dimaksud dapat berupa ile yang
+                         akan ditampilkan di browser yang kalian gunakan. Semua kegiatan tersebut
+                         diatur  oleh  suatu  protokol  HTTP.  Sayangnya,  HTTP  tidak  menjamin
+                         keamanan  data  sehingga  ada  potensi  data  bisa  dimanipulasi.  Adapun
+                         HTTPS  adalah  versi  HTTP  yang  lebih  aman  yang  mampu  menjaga
+                         keamanan data  yang diproses.
+
+
+
+
+
+
+
+
+                                    Gambar 5.16 Situs kemdikbud.go.id Menggunakan
+                                                       Sertifikat SSL
+                                         Sumber: Dokumen Kemendikbud, 2021
+
+                             Teknologi  enkripsi  berbasis  https  dinamakan  SSL  yang  merupakan
+                         singkatan dari Secure Sockets Layer. SSL adalah suatu teknologi keamanan
+                         standar global yang memungkinkan komunikasi terenkripsi antara peramban
+                         web dan server web. SSL banyak digunakan pada berbagai situs web untuk
+                         mengurangi  risiko  informasi  yang  bersifat  sensitif  (misalnya,      nomor  kartu
+                         kredit, nama pengguna, kata sandi, email, dll) dari pencurian atau perusakan
+                         oleh  peretas  dan  pencuri  identitas.  Sertiikat  SSL  berfungsi  untuk
+                         mengotentikasi identitas situs web untuk menjamin pengunjung bahwa situs
+                         web tersebut bukan merupakan situs web palsu sekaligus mengenkripsi data
+                         yang sedang dikirim. Pada website yang dilengkapi dengan SSL, ketika kalian
+                         menekan  ikon  kunci,  akan  muncul  informasi  tentang  validitas  dari  sertiikat
+                         tersebut  seperti  ditunjukkan  pada  Gambar  5.16.  Jadi,  sebelum  kalian
+                         mengunjungi sebuah situs web, pastikan bahwa situs web tersebut aman.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                         @2022, SMA Al Muslim  22]]></page><page Index="23"><![CDATA[U
+                                                           ji Kompetensi
+
+                                Pilihan Ganda
+                                    Diberikan konigurasi jaringan sebagai berikut.
+                                        Jika diasumsikan bahwa ketika melakukan transfer data pada
+                                   jaringan internet, makin panjang kabel yang harus dilalui biasanya
+                                   membutuhkan waktu yang makin lama, ini bisa saja berpotensi pada
+                                   lambatnya kecepatan internet. Dari gambar jaringan di atas, manakah
+                                   komputer yang akan memiliki kecepatan internet paling lambat?
+                                          Hanya Komputer B
+                                          Komputer B dan C
+                                          Komputer C dan E
+                                          Hanya Komputer C
+
+
+
+
+
+
+                                 2.  Sesuai Gambar pada soal nomor 1, manakah komputer yang
+                                    akan memiliki kecepatan internet paling cepat?
+                                A.  Hanya Komputer A
+                                B.  Komputer B dan D
+                                C.  Komputer C dan E
+                                D.  Hanya Komputer B
+                                3.  Konektivitas internet berkabel yang memanfaatkan jaringan
+                                    kabel telepon untuk terhubung dengan jaringan internet
+                                    antara lain ialah ...
+                                A.  Dial-Up dan GPRS
+                                B.  ADSL dan Dial-Up
+                                C.  GRPS dan TV Kabel
+                                D.  Satelit dan Wifi
+                                4.  Diketahui  bahwa  Budi  dan  Chika  berada  di  suatu  lokasi
+                                    dengan jarak 1 meter, tetapi dipisahkan oleh tembok. Karena
+                                    suatu  hal,  Budi  ingin  mengirim  file  kepada  Cika  melalui  HP
+                                    mereka, yang sama-sama memiliki fasilitas koneksi kabel data,
+                                    bluetooth  dan  wifi.  Menurut  kalian  koneksi  apa  yang  bisa
+                                    mereka gunakan untuk saling mengirimkan file pada kasus ini?
+
+
+
+
+                          A.  Hanya koneksi wifi.
+
+
+
+
+
+
+
+
+                         @2022, SMA Al Muslim  23]]></page><page Index="24"><![CDATA[B.  Hanya koneksi bluetooth.
+                          C.  Koneksi wifi dan bluetooth.
+                          D.  Koneksi wifi dan kabel data.
+                          5.  Sertiikat SSL merupakan salah satu cara yang bisa digunakan untuk
+                              memproteksi  data  pada  jaringan  internet.  Berikut  ini  yang
+                              merupakan fungsi lain dari Sertiikat SSL adalah . . . .
+                          A.  melakukan autentikasi pada sebuah situs web untuk mengecek
+                              apakah situs web tersebut bisa diakses dengan cepat
+                          B.  memastikan sebuah situs web yang dikunjungi merupakan situs
+                              web asli yang terjamin keamananya
+                          C.  mencegah adanya hacker yang mencuri data pribadi
+                          D.  semua jawaban benar
+
+
+                       Uraian
+                       Misalnya kalian akan membuat sebuah jaringan komputer di lingkungan
+                       rumah kalian supaya komputer yang berada di kamar kalian, kamar orang
+
+                       tua, dan kamar adik bisa terhubung ke internet. Jika diketahui posisi modem
+                       ISP ada di ruang tamu dan diberikan denah kamar yang ada di rumah kalian
+                       sebagai berikut, gambarkan konigurasi jaringan yang tepat sehingga menggunakan
+                       total panjang kabel paling pendek supaya terlihat rapi!
+
+
+
+
+
+
+
+                                          Ruang Tamu                                     Kamar
+                                                                Ruang Keluarga           Adik
+
+
+
+
+
+                                       Kamar Orang Tua                                  Kamar
+
+                                                                    Dapu                Kalian
+                                                                      r
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                         @2022, SMA Al Muslim  24]]></page><page Index="25"><![CDATA[Jawablah pertanyaan berikut dalam Lembar Releksi pada Buku Kerja. Jangan
+                         lupa mencatat kegiatan dalam Jurnal.
+                         1.  Apakah kalian telah telah memahami konsep jaringan lokal dan jaringan
+                             internet?
+                         2.  Apakah  kalian  telah  memahami  konektivitas  internet  berkabel  dan
+                             nirkabel?
+                         3.  Bayangkan  jika  tidak  ada  jaringan  komputer.  Bayangkan  jika  semua
+                             komputer hanya sendiri-sendiri (stand alone) dan tidak terhubung satu
+                             sama lain. Apa yang akan terjadi?
+                         4.  Akibat adanya konektivitas perangkat, apa saja yang harus diwaspadai
+                             terkait data yang kita kirimkan dari perangkat kita?
+
+
+                            Ingin Tahu Lebih?
+
+                               Jika kalian tertarik dengan materi ini dan ingin mendalaminya
+                           lebih jauh, berikut buku yang bisa dibaca atau link yang bisa diakses.
+                                 George Beekman, Digital Planet: Tomorrow's Technology
+                             and You, Prentice Hall, 2012
+                                 https://id.wikipedia.org/wiki/Jaringan_komputer
+                                 https://id.wikipedia.org/wiki/Internet_Sehat_dan_Aman
+                                 How does Internet work,
+                             https://www.youtube.com/watch?v=7_ LPdttKXPc
+                                 https://id.wikipedia.org/wiki/Transport_Layer_Security
+                                 https://id.wikipedia.org/wiki/HTTPS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                         @2022, SMA Al Muslim  25]]></page><page Index="26"><![CDATA[@2022, SMA Al Muslim  26]]></page></pages></Search>
